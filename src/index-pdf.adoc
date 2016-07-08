@@ -1,0 +1,16 @@
+= MindBoard (Classic) User Guide
+Tomoaki Oshima <http://www.mindboardapps.com/>
+:doctype: book
+:source-highlighter: coderay
+:toc: left
+:sectnums:
+:sectanchors:
+:icons: font
+:imagesdir: ../images
+
+
+This document explains MindBoard (Classic) Version 3.5.0.
+
+include::user-guide.adoc[]
+
+

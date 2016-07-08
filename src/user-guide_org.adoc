@@ -1,0 +1,216 @@
+= Introduction
+
+This application help you making mind map easy and intuitive.
+
+image::screenshots/mindboard-classic.png[title="mindboard classic"]
+
+
+== Key Features 
+
+* You do not need to use keyboard. You can create a mind map by free hand drawing.
+* You can draw a large map with zoom and scroll feature.
+* You can export your mind map as PDF.
+
+
+= Usage
+
+== Overview
+
+This app has three Activities and Settings.
+
+
+=== File Manager
+
+image::screenshots/muji_finder_act.png[title="file manager"]
+
+* This is for management your map files.
+* There are three folders to organize your map files.
+* In order to enter the *Map Editor* activity, double tapping a map icon.
+
+
+=== Map Editor
+
+image::screenshots/muji_mindboard_act.png[title="map editor"]
+
+* This is for mind mapping.
+* In order to enter the *Node Editor*, double tapping a node on the map.
+* In order to back the *File Manager*, tapping the icon on the top left corner, or the Android hard key back button.
+
+[NOTE]
+In order to go back, you can also use **double tap** gesture on the background.
+If you do not like this behaviour, turn it off in the Settings.
+
+
+=== Node Editor
+
+image::screenshots/muji_editor_act.png[title="node editor"]
+
+* This is for editing drawing on a node.
+* Back to the *Map Editor* by tapping the icon on the top left corner, or the Android hard key back button.
+
+
+[NOTE]
+In order to go back, you can also use *double tap* gesture on the background.
+If you do not like this behaviour, turn it off in the Settings.
+
+
+=== Settings 
+
+image::screenshots/muji_settings.png[title="settings"]
+
+
+== Details
+
+=== File Manager
+
+image::screenshots/muji_finder_act.png[title="file manager"]
+
+* **Add a new mind map** ... Tap the Add button on the action bar.
+* **Copy a mind map** ... Select a map to copy by tapping it. And then the Copy button on the action bar.
+* **Delete a mind map** ... Select a map to delete by tapping it. And then the Confirm Delete button on the action bar.
+* **Change the order of maps** ... Long-press a mind map. And then drag it into another place.
+
+Menu
+
+* **Data Management** ... Select the Data Management menu item from the menu.
+* **Export data** ... Export all mind map data into the SD card.
+* **Import data** ... Import the mind map data from the SD card.
+
+[NOTE]
+These features are for data migration from the Free to Full version.
+
+
+=== Map Editor
+
+image::screenshots/muji_mindboard_act.png[title="map editor"]
+
+* *Edit drawing on a node* ... In order to enter the node editor, double tapping a node.
+* *Add a node* ... Drag (+) mark on a node.
+* *Change node structure* ... Long press a node to change. And then drag it into another node.
+* *Delete a node* ... Select a node to delete , and then tap delete button on the action bar. It will be deleted children nodes.
+* *Scroll* ... Drag the background with a finger.
+* *Zoom* ... Pinch in / out with two fingers.
+
+image::screenshots/muji_mindboard_node_selected.png[title="node selection"]
+
+* **Set the drawing color on a node** ... Choose a color from colors panel on the action bar when you select a node.
+* **Set the color of the branch** ... Choose a color from colors panel on the action bar when you select a branch.
+* **Select pen stroke width** ... Choose a pen width from pen widths panel on the action bar. 
+
+Menu
+
+* **Export as PDF** ... Select the PDF Export Menu Item from the menu on the action bar.
+* **Change theme** ... Select the Theme Change Menu Item from the menu on the action bar. Choose a theme from the list of themes.
+
+
+=== Node Editor
+
+image::screenshots/muji_editor_act.png[title="node editor"]
+
+* **Pen mode** ... You can draw your ideas.
+* **Eraser mode** ... Delete the stroke that you draw.
+* **Scroll** ... Drag the background with one finger.
+* **Zoom** ... Pinch in / out with two fingers.
+* **Undo** ... Do undo.
+* **Redo** ... Do redo.
+* **Clear** ... Clear drawing in the node.
+
+
+=== Settings
+
+image::screenshots/muji_settings.png[title="settings"]
+
+* **Double tap and go back gesture**  ... enabled or not
+* **Stylus (S Pen)** ... use plam rejection or not
+* **Google Drive Folder** ... use Google Drive folder or not (Only Full Edition)
+* **Screen** ... keep screen on or not
+//* **Working Directory** 
+
+
+= Appendix
+
+== FAQ
+
+=== What is different between MindBoard Classic Free and Full Edition? 
+
+Free Edition limitations are ...
+
+* You can create mind map files until 10.
+* In Free Edition, Exported PDF with watermark.
+
+There is no differences but these two features.
+
+
+=== How to transfer data from Free Edition to Full Edition when upgrade? 
+
+Please use **Data Management** menu in the File Manager.
+
+
+==== Operations
+
+Step1 : Launch MindBoard Classic (*Free*) Edition
+
+. Select the *Data Management* Menu Item.
+. On the Data Management Dialog, Select *Export data* and tap *OK*.
+
+Step2 : Launch MindBoard Classic (*Full*) Edition
+
+. Select the *Data Management* Menu Item.
+. On the Data Management Dialog, Select *Import data* and tap **OK**.
+
+
+==== Additional Information
+
+* When you export data , it was stored in the local SD Card ( ex. **/mnt/sdcard/mindboard/mindboard_data.zip** ). 
+* Wnen you import data , MindBoard app try to read data from the local SD Card . 
+
+
+=== How to change node structure?
+
+You can change any node (but center node) in the Map Editor.
+
+
+==== Operations 
+
+In the *Map Editor* ...
+
+. Long press a node to change.
+. Drag and drop it into another node. 
+
+[NOTE]
+See also the http://www.youtube.com/watch?v=qXQFEQhgNko[Video Tutorial] at youtube.
+
+
+=== Can I layout nodes automatic in the mindmap? 
+
+Yes.
+
+Please use the menu **Auto-layout**.
+
+
+==== Operations
+
+In the *Map Editor* ...
+
+. Select a node
+. Select the menu *Auto Layout*
+
+
+=== Can I change order of files in File Manager? 
+
+Yes.
+
+You can change it anywhere you want.
+
+
+==== Operations
+
+In the *File Manager Activity* ...
+
+. Long Press a target file icon what you want to move. ( so that others grayed out. )
+. Drag and drop it into somewhere you want.
+
+
+[NOTE]
+Version 3.1.2 and above , it was supported the *Tab feature* . 
+You can also move a file to another tab.
