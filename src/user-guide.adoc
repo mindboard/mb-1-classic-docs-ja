@@ -5,7 +5,7 @@
 image::screenshots/mindboard-classic.png[title="mindboard classic"]
 
 
-== 主な特徴
+== 主な特長
 
 * キーボードは使いません。指で自由にマインドマップを描くアプリです。
 * ズームとスクロール機能を使うことで大きなマップを作成することができます。
