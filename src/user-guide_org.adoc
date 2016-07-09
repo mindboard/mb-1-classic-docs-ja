@@ -12,6 +12,11 @@ image::screenshots/mindboard-classic.png[title="mindboard classic"]
 * You can export your mind map as PDF.
 
 
+== Installation
+
+Get the https://play.google.com/store/apps/details?id=jp.osima.android.mindboardfree[MindBoard (Classic) App] on Google Play.
+
+
 = Usage
 
 == Overview

@@ -1,4 +1,4 @@
-= 紹介
+= イントロダクション
 
 これはマインドマップを簡単かつ直感的に描くことを支援するアプリです。
 
@@ -10,6 +10,11 @@ image::screenshots/mindboard-classic.png[title="mindboard classic"]
 * キーボードは使いません。指で自由にマインドマップを描くアプリです。
 * ズームとスクロール機能を使うことで大きなマップを作成することができます。
 * マップはPDFとしてエクスポートできます。
+
+
+== インストール
+
+Google Play で https://play.google.com/store/apps/details?id=jp.osima.android.mindboardfree[MindBoard (Classic) App] を入手してください。
 
 
 = 使い方
